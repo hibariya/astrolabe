@@ -1,0 +1,24 @@
+From: "remove", To: "eliminate"
+Finding "remove" (Noun)
+Finding "remove" (Verb)
+Sense#173351: [;1mremove#1;[0mtake#17;take_away#2;withdraw#12; (Verb)
+(remove something concrete, as by lifting, pushing, or taking off, or remove something abstract; "remove a threat"; "remove a wrapper"; "Remove the dirty dishes from the table"; "take the gun from your pocket"; "This machine withdraws heat from the environment")
+    [;1m-- Hyponym --> [0mSense#576638: [;1meliminate#7;[0m (Verb)
+    (remove (an unknown variable) from two or more equations)
+
+Sense#2228837: get_rid_of#1;[;1mremove#3;[0m (Verb)
+(dispose of; "Get rid of these old shoes!"; "The company got rid of all the dead wood")
+    [;1m-- Derivationally related form --> [0mSense#392407: removal#1;remotion#1; (Noun)
+    (the act of removing; "he had surgery for the removal of a malignancy")
+        [;1m-- Derivationally related form --> [0mSense#173351: [;1mremove#1;[0mtake#17;take_away#2;withdraw#12; (Verb)
+        (remove something concrete, as by lifting, pushing, or taking off, or remove something abstract; "remove a threat"; "remove a wrapper"; "Remove the dirty dishes from the table"; "take the gun from your pocket"; "This machine withdraws heat from the environment")
+            [;1m-- Hyponym --> [0mSense#576638: [;1meliminate#7;[0m (Verb)
+            (remove (an unknown variable) from two or more equations)
+
+Sense#2488014: murder#1;slay#1;hit#11;dispatch#3;bump_off#1;off#1;polish_off#2;[;1mremove#7;[0m (Verb)
+(kill intentionally and with premeditation; "The mafia boss ordered his enemies murdered")
+    [;1m-- Hypernym --> [0mSense#1326622: kill#1; (Verb)
+    (cause to die; put to death, usually intentionally or knowingly; "This man killed several people when he tried to rob a bank"; "The farmer killed a pig for the holidays")
+        [;1m-- Hyponym --> [0mSense#471632: [;1meliminate#3;[0mannihilate#1;extinguish#5;eradicate#1;wipe_out#2;decimate#2;carry_off#3; (Verb)
+        (kill in large numbers; "the plague wiped out an entire population")
+

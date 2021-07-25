@@ -1,0 +1,18 @@
+From: "inhibit", To: "deterrent"
+Finding "inhibit" (Verb)
+Sense#463563: [;1minhibit#1;[0m (Verb)
+(prohibit, forbid, or prevent from doing something; "Contact between the young was inhibited by strict social customs")
+    [;1m-- Hypernym --> [0mSense#2458316: prevent#1;forestall#1;foreclose#1;preclude#1;forbid#2; (Verb)
+    (keep from happening or arising; make impossible; "My sense of tact forbids an honest answer"; "Your role in the projects precludes your involvement in the competitive project")
+        [;1m-- Derivationally related form --> [0mSense#1768325: preventive#2;preventative#1; (Adjective)
+        (tending to prevent or hinder)
+            [;1m-- Similar --> [0mSense#1769055: [;1mdeterrent#1;[0m (Adjective)
+            (tending to deter; "the deterrent effects of high prices")
+
+Sense#2456941: [;1minhibit#2;[0m (Verb)
+(limit, block, or decrease the action or function of; "inhibit the action of the enzyme"; "inhibit the rate of a chemical reaction")
+    [;1m-- Hypernym --> [0mSense#2456614: impede#1;hinder#1; (Verb)
+    (be a hindrance or obstacle to; "She is impeding the progress of our project")
+        [;1m-- Derivationally related form --> [0mSense#5697054: hindrance#1;hinderance#1;[;1mdeterrent#1;[0mimpediment#1;balk#2;baulk#2;check#8;handicap#3; (Noun)
+        (something immaterial that interferes with or delays action or progress)
+
