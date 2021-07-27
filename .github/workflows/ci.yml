@@ -1,0 +1,25 @@
+name: CI
+on: [push]
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Setup the dependencies
+        run: |
+          sudo apt install -y build-essential autoconf automake libtool wordnet wordnet-dev
+
+      - name: Build
+        run: |
+          autoreconf --install
+          ./configure --prefix=$(pwd)/dist
+          make
+          make install
+
+      - name: Test
+        working-directory: ./test
+        run: make
+
+      - name: Cleanup
+        run: make maintainer-clean
