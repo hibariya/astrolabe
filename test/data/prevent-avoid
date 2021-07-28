@@ -1,16 +1,16 @@
 From: "prevent", To: "avoid"
 Finding "prevent" (Verb)
-Sense#2458316: [;1mprevent#1;[0mforestall#1;foreclose#1;preclude#1;forbid#2; (Verb)
+Sense#2452885: [;1mprevent#1;[0mforestall#1;foreclose#1;preclude#1;forbid#2; (Verb)
 (keep from happening or arising; make impossible; "My sense of tact forbids an honest answer"; "Your role in the projects precludes your involvement in the competitive project")
-    [;1m-- Hyponym --> [0mSense#2458770: debar#2;forefend#1;forfend#1;obviate#2;deflect#1;avert#1;head_off#1;stave_off#1;fend_off#1;[;1mavoid#2;[0mward_off#1; (Verb)
+    [;1m-- Hyponym --> [0mSense#2453321: debar#2;forefend#1;forfend#1;obviate#2;deflect#1;avert#1;head_off#1;stave_off#1;fend_off#1;[;1mavoid#2;[0mward_off#1; (Verb)
     (prevent the occurrence of; prevent from happening; "Let's avoid a confrontation"; "head off a confrontation"; "avert a strike")
 
-Sense#2455370: [;1mprevent#2;[0mkeep#4; (Verb)
+Sense#2450505: [;1mprevent#2;[0mkeep#4; (Verb)
 (stop (someone or something) from doing something or being in a certain state; "We must prevent the cancer from spreading"; "His snoring kept me from falling asleep"; "Keep the child from eating the marbles")
-    [;1m-- Hyponym --> [0mSense#2454205: exclude#2;keep_out#1;shut_out#1;shut#3; (Verb)
+    [;1m-- Hyponym --> [0mSense#2449340: exclude#2;keep_out#1;shut_out#1;shut#3; (Verb)
     (prevent from entering; shut out; "The trees were shutting out all sunlight"; "This policy excludes people who have a criminal record from entering the country")
-        [;1m-- Hyponym --> [0mSense#2471081: ostracize#2;ostracise#2; (Verb)
+        [;1m-- Hyponym --> [0mSense#2465658: ostracize#2;ostracise#2; (Verb)
         (avoid speaking to or dealing with; "Ever since I spoke up, my colleagues ostracize me")
-            [;1m-- Entailment --> [0mSense#813037: [;1mavoid#1;[0m (Verb)
+            [;1m-- Entailment --> [0mSense#811375: [;1mavoid#1;[0m (Verb)
             (stay clear from; keep away from; keep out of the way of someone or something; "Her former friends now avoid her")
 

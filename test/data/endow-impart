@@ -1,0 +1,20 @@
+From: "endow", To: "impart"
+Finding "endow" (Verb)
+Sense#2474239: [;1mendow#1;[0mindue#1;gift#1;empower#2;invest#2;endue#1; (Verb)
+(give qualities or abilities to)
+    [;1m-- Hypernym --> [0mSense#512877: enable#1; (Verb)
+    (render capable or able for some task; "This skill will enable you to find a job on Wall Street"; "The rope enables you to secure yourself when you climb the mountain")
+        [;1m-- Hypernym --> [0mSense#126264: change#1;alter#1;modify#3; (Verb)
+        (cause to change; make different; cause a transformation; "The advent of the automobile may have altered the growth pattern of the city"; "The discussion has changed my thinking about the issue")
+            [;1m-- Hyponym --> [0mSense#2324478: lend#1;[;1mimpart#2;[0mbestow#3;contribute#1;add#3;bring#8; (Verb)
+            (bestow a quality on; "Her presence lends a certain cachet to the company"; "The music added a lot to the play"; "She brings a special atmosphere to our meetings"; "This adds a light note to the program")
+
+Sense#2201268: [;1mendow#2;[0mdower#1; (Verb)
+(furnish with an endowment; "When she got married, she got dowered")
+    [;1m-- Hypernym --> [0mSense#2200686: give#8;gift#2;present#7; (Verb)
+    (give as a present; make a gift of; "What will you give her for her birthday?")
+        [;1m-- Hyponym --> [0mSense#2229055: bequeath#1;will#3;leave#10; (Verb)
+        (leave or give by will after one's death; "My aunt bequeathed me all her jewelry"; "My grandfather left me his entire estate")
+            [;1m-- Verb group --> [0mSense#2296153: [;1mimpart#1;[0mleave#13;give#12;pass_on#2; (Verb)
+            (transmit (knowledge or skills); "give a secret to the Russians"; "leave your name and address here"; "impart a new skill to the students")
+
