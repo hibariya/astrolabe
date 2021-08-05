@@ -1,6 +1,8 @@
 # Astrolabe
 
-Astrolabe is an experimental tool that explains the relationships between a couple of English words utilizing [WordNet](https://wordnet.princeton.edu/). The primary motivation of this is to help ESL learners (like me) to grasp a clearer picture of a particular sense by recognizing the relationships between two words that have something in common but different senses.
+Astrolabe is an experimental tool that explains the relationships between similar English words utilizing [WordNet](https://wordnet.princeton.edu/). The primary motivation of this is to help ESL learners (like me) to grasp a clearer picture of a particular sense by recognizing the relationships between two words that have something in common but different senses.
+
+For more information, see the [blog post](https://rip.hibariya.org/post/astrolabe/).
 
 ## Prerequisites
 
