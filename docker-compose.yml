@@ -1,0 +1,6 @@
+services:
+  backend:
+    build: .
+    init: true
+    volumes:
+      - .:/work
